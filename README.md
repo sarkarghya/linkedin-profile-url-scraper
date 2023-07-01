@@ -1,2 +1,2 @@
-# linkedin-profile-url-scraper
-Gets profile url in a txt or csv file
+# linkedin-profile-based-data-purification
+Use dataCln then 2csv
